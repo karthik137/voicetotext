@@ -1,0 +1,58 @@
+.myContainer {
+    margin-top: 5rem;
+}
+
+.myRobotIcon {
+
+    width: 30px;
+    height: 30px;
+    fill: #406ce2;
+    margin-bottom: 10px;
+  }
+
+.myUserIcon {
+    width: 30px;
+    height: 30px;
+    fill: #406ce2;
+    margin-bottom: 10px;
+}
+
+.myTextArea {
+    height: 200px;
+    width: 350px;
+    border-radius: 10px;
+    border: 1px solid rgb(169, 169, 245);
+
+}
+
+.myResponse {
+    height: 200px;
+    width: 350px;
+    border: 1px solid rgb(169, 169, 245);
+    border-radius: 10px;
+    overflow: auto;
+}
+
+.myMicIconActive {
+    width: 30px;
+    height: 30px;
+    fill: #EB6300;
+    cursor: pointer;
+}
+
+.myMicIconInActive {
+    width: 30px;
+    height: 30px;
+    fill: #4e95f1;
+    cursor: pointer;
+
+}
+
+.myButtons {
+    margin-top: 18px;
+    margin-left: 4px;
+}
+
+.myStopButton {
+    margin-left:1rem;
+}

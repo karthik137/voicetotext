@@ -1,0 +1,29 @@
+.myFooter {
+    bottom: 0;
+    position: fixed;
+    /* width: 100%; */
+    height: 50px;
+    background-color: #0A2A5A;
+    text-align: center;
+    left:0;
+    bottom:0;
+    right:0;
+}
+
+footer {
+    background-color: #0A2A5A;
+    min-height: 80px;
+    text-align: center;
+    position:fixed;
+    left:0;
+    bottom:0;
+    right:0;
+  }
+  
+.myFooterText {
+    font-family: sans-serif;
+    color: white;
+    padding-top: 0.8rem;
+    font-size: 12px;
+}
+

@@ -1,0 +1,31 @@
+.myBrand {
+    font-family: 'Roboto';
+    font-size: 18px;
+    text-align: center;
+    color: white;
+}
+.myBrand2{
+    color: rgb(143, 231, 143);
+}
+
+.myNavContent {
+    font-size: 12px;
+    color: white;
+    margin-left: 2rem;
+    margin-top: 4px;
+    cursor: pointer;
+
+}
+
+.rootDivHeader {
+    background-color: #4670D9;
+}
+
+.navbar {
+    min-height: 30px;
+}
+
+.p-2 {
+    padding: 0px !important;
+}
+
